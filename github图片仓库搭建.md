@@ -1,4 +1,28 @@
-# 1.github图片仓库
+# GitHub图床搭建
 
-![](https://raw.githubusercontent.com/TangGuaTnag/image.io/main/18610959-4fca2255961dfab9.jpg)
+## 前言
 
+- #### 此篇文章的作用：
+
+  - 在github上创建一个图片仓库
+  - 利用PicGo配置github图床环境
+  - 利用PicGo上传图片
+  - 在Typora上引用图片
+
+- #### 工作环境：
+
+  - 使用win10系统
+
+  - 使用的软件如下：PicGo（上传图片，管理图片、生成链接）、Typora（使用图片链接）、github（用做图片仓库）
+
+    
+
+- #### GitHub图床优势：
+
+  - 完全免费
+  - 支持100MB以内大小图片（本人没有尝试过这么大的图片上传）
+  - github开源平台，不用担心图片丢失
+
+------
+
+## 搭建图床
